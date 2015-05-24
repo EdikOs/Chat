@@ -1,0 +1,39 @@
+﻿@model string
+@{
+    ViewBag.Title = "Чат";
+    
+    //ViewBag.Title = "Чат комната";
+}
+@section scripts
+{
+    @Scripts.Render("~/bundles/signalr");
+    <script src="~/signalr/hubs"></script>
+}
+<div class="main" ng-controller="ChatController">
+    <div id="chatBody" style="float: left;">
+        <div id="header">
+            @*<h2>Добро пожаловать, @Model</h2>*@
+            <h2>Вы зашли как: @Model</h2>
+            <h2>Добро пожаловать!</h2>
+        </div>
+        <div id="inputForm">
+            {{username="@Model"}}
+            <input ng-keydown="sndMessage($event)" type="text" ng-model="msg" placeholder="Сообщение">
+            <input ng-click="addMessage(msg)" type="button" id="sendmessage" value="Отправить" />
+        </div>
+        <div id="chatroom">
+            <div ng-repeat="msg in messages"><em>{{msg.UserId}}</em>: {{msg.Text}}</div>
+        </div>
+    </div>
+    <div id="chatusers" style="float: right;">
+        @*<p><b>Все пользователи</b></p>*@
+        <p><b>Online</b></p>
+        <ul>
+            <li class="userItem" ng-repeat="user in users" ng-click="updateMessages(user.UserId)">
+               @* <b>{{$index+1}} - {{user.UserId}}</b>*@
+          <b>{{user.UserId}}</b>
+            </li>
+        </ul>
+        <input ng-click="updateMessages()" type="button" value="Показать все" />
+    </div>
+</div>

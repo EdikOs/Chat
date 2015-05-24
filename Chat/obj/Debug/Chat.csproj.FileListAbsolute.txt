@@ -1,0 +1,232 @@
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Chat.dll.config
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Chat.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Chat.pdb
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Antlr3.Runtime.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Newtonsoft.Json.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Net.Http.Formatting.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Helpers.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Http.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Http.WebHost.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Mvc.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Optimization.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Razor.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.Deployment.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.Razor.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\WebGrease.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Newtonsoft.Json.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Net.Http.Formatting.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Helpers.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Http.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Http.WebHost.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Mvc.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Optimization.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.Razor.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.Deployment.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\System.Web.WebPages.Razor.xml
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Antlr3.Runtime.pdb
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Helpers.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Http.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Mvc.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Optimization.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.Razor.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.WebPages.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\obj\Debug\Chat.dll
+c:\users\владислав\documents\visual studio 2013\Projects\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.Security.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Owin.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\Microsoft.Owin.Security.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\EntityFramework.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\EntityFramework.SqlServer.dll
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\EntityFramework.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\EntityFramework.SqlServer.xml
+C:\Users\Владислав\documents\visual studio 2013\Projects\Chat\Chat\bin\ru\EntityFramework.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Chat.dll.config
+C:\Users\Анна\Desktop\чат\Chat\bin\Chat.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Chat.pdb
+C:\Users\Анна\Desktop\чат\Chat\bin\Antlr3.Runtime.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\EntityFramework.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\EntityFramework.SqlServer.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.Security.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Newtonsoft.Json.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\Owin.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Net.Http.Formatting.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Helpers.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Http.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Http.WebHost.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Mvc.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Optimization.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Razor.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\WebGrease.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\EntityFramework.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\EntityFramework.SqlServer.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Microsoft.Owin.Security.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Newtonsoft.Json.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Net.Http.Formatting.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Helpers.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Http.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Http.WebHost.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Mvc.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Optimization.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.Razor.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Анна\Desktop\чат\Chat\bin\Antlr3.Runtime.pdb
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\EntityFramework.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Http.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Анна\Desktop\чат\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\чат\Chat\obj\Debug\Chat.dll
+C:\Users\Анна\Desktop\чат\Chat\obj\Debug\Chat.pdb
+C:\Users\1\Desktop\чат\чат\Chat\bin\Chat.dll.config
+C:\Users\1\Desktop\чат\чат\Chat\bin\Chat.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Chat.pdb
+C:\Users\1\Desktop\чат\чат\Chat\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\EntityFramework.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\Owin.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Net.Http.Formatting.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Http.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Http.WebHost.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\WebGrease.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\EntityFramework.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Newtonsoft.Json.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Net.Http.Formatting.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Http.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Http.WebHost.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\чат\чат\Chat\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Http.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\чат\чат\Chat\obj\Debug\Chat.dll
+C:\Users\1\Desktop\чат\чат\Chat\obj\Debug\Chat.pdb
+C:\Users\1\Desktop\чат\чат\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Chat.dll.config
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Chat.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Chat.pdb
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Antlr3.Runtime.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\EntityFramework.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Newtonsoft.Json.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Owin.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Net.Http.Formatting.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Helpers.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Http.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Http.WebHost.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Mvc.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Optimization.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Razor.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\WebGrease.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\EntityFramework.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Newtonsoft.Json.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Net.Http.Formatting.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Helpers.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Http.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Http.WebHost.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Mvc.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Optimization.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.Razor.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\Antlr3.Runtime.pdb
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\EntityFramework.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Http.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\GitHub\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\1\Documents\GitHub\Chat\Chat\obj\Debug\Chat.pdb

@@ -1,0 +1,9 @@
+﻿<div class="row">
+    <div id="loginBlock">
+        <h2>Введите логин</h2>
+        @using(Html.BeginForm("ChatRoom", "Home", FormMethod.Get)){
+            <input name="user" type="text" />
+            <input id="btnLogin" type="submit" value="Войти" />
+        }
+    </div>
+</div>
