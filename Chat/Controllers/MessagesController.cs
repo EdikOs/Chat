@@ -15,29 +15,28 @@ namespace Chat.Controllers
     }
     public class MessagesController : ApiController
     {
-        // GET api/messages
         [HttpGet]
-        public IEnumerable<Msg> AllMessages() //Все сообщения
+        public IEnumerable<Msg> AllMessages() 
         {
             using (var cntx = new ChatContext())
             {
                 return (from item in cntx.TextMessages 
-                        orderby item.TextMessageId   // сортируем сообщения в порядке убывания
+                        orderby item.TextMessageId  
                         descending
-                        select new Msg { Text = item.Text, UserId = item.UserId }).ToList();// выводим их
+                        select new Msg { Text = item.Text, UserId = item.UserId }).ToList();
             }
         }
-        // GET api/messages
+
         [HttpGet]
-        public IEnumerable<Msg> MessagesOfUser(string id) // Сообщения от конкретного пользователя
+        public IEnumerable<Msg> MessagesOfUser(string id) 
         {
             using (var cntx = new ChatContext())
             {
                 return (from item in cntx.TextMessages 
                         orderby item.TextMessageId 
-                        descending //сортируем
+                        descending 
                         where item.UserId == id 
-                        select new Msg { Text= item.Text, UserId = item.UserId }).ToList();// выводим
+                        select new Msg { Text= item.Text, UserId = item.UserId }).ToList();
             }
         }
     }

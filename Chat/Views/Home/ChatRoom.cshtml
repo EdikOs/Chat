@@ -2,7 +2,6 @@
 @{
     ViewBag.Title = "Чат";
     
-    //ViewBag.Title = "Чат комната";
 }
 @section scripts
 {
@@ -12,7 +11,6 @@
 <div class="main" ng-controller="ChatController">
     <div id="chatBody" style="float: left;">
         <div id="header">
-            @*<h2>Добро пожаловать, @Model</h2>*@
             <h2>Вы зашли как: @Model</h2>
             <h2>Добро пожаловать!</h2>
         </div>
@@ -26,11 +24,9 @@
         </div>
     </div>
     <div id="chatusers" style="float: right;">
-        @*<p><b>Все пользователи</b></p>*@
         <p><b>Online</b></p>
         <ul>
             <li class="userItem" ng-repeat="user in users" ng-click="updateMessages(user.UserId)">
-               @* <b>{{$index+1}} - {{user.UserId}}</b>*@
           <b>{{user.UserId}}</b>
             </li>
         </ul>

@@ -10,8 +10,7 @@ namespace Chat.Controllers
 {
     public class UsersController : ApiController
     {
-        // GET api/users
-        public IEnumerable<User> GetAllUsers() // Список пользователей
+        public IEnumerable<User> GetAllUsers() 
         {
             return ChatHub.Users;
         }

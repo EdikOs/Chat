@@ -9,16 +9,15 @@ namespace Chat
 {
     public class ChatHub : Hub
     {
-        public static List<User> Users = new List<User>();//список, который  хранит подключенных к чату пользователей.
+        public static List<User> Users = new List<User>();
 
-        // Отправка сообщений
         public void Send(string name, string message)
         {
 
             Clients.All.addMessage(name, message);
             using (var cntx = new ChatContext())
             {
-                cntx.TextMessages.Add(new TextMessage() //Сохраняем в БД
+                cntx.TextMessages.Add(new TextMessage() 
                 {
                     Text = message,
                     UserId = name
@@ -26,8 +25,8 @@ namespace Chat
                 cntx.SaveChanges();
             }
         }
-        // Подключение нового пользователя
-        public void Connect(string userName) //Вызываем после ввода логина
+
+        public void Connect(string userName)
         {
             var id = Context.ConnectionId;
             using(var cntx = new ChatContext()){
@@ -44,15 +43,12 @@ namespace Chat
             {
                 Users.Add(new User { ConnectionId = id, UserId = userName });
 
-                // Посылаем сообщение текущему пользователю
                 Clients.Caller.onConnected();
 
-                // Посылаем сообщение всем пользователям, кроме текущего
                 Clients.AllExcept(id).onNewUserConnected();
             }
         }
 
-        // Отключение пользователя
         public override System.Threading.Tasks.Task OnDisconnected(bool stopCalled)
         {
             var item = Users.FirstOrDefault(x => x.ConnectionId == Context.ConnectionId);
